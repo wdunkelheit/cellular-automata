@@ -1,0 +1,1 @@
+clear; ./automaton.o
